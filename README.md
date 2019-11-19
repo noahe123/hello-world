@@ -1,6 +1,6 @@
 # hello-world
 For JAVA class.
 
-Hello world!
+Name: Noah Eichler
 
-Goodbye world! LOL
+I made a pull request.
